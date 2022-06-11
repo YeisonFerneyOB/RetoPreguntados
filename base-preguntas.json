@@ -1,0 +1,232 @@
+[
+   
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Músculos que se encargan de los movimientos involuntarios.",
+        "respuesta": "Lisos",
+        "incorrecta1": "Estriados",
+        "incorrecta2": "Cardíacos",
+        "incorrecta3": "Esqueléticos\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Enfermedad que ataca al hígado.",
+        "respuesta": "Hepatitis",
+        "incorrecta1": "Renitis",
+        "incorrecta2": "Bulimia",
+        "incorrecta3": "Onicomicosis\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Función principal del intestino grueso",
+        "respuesta": "Absorción De Agua",
+        "incorrecta1": "Producción De Insulina",
+        "incorrecta2": "Producción De Glucógeno",
+        "incorrecta3": "Producción Del Jugo Pancreático\r",
+        "imagen": "https://i.ibb.co/pJ8q4JB/image.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de estado ocurre en la sublimación.",
+        "respuesta": "Solido A Gaseoso",
+        "incorrecta1": "Gaseoso A Solido",
+        "incorrecta2": "Solido A Liquido",
+        "incorrecta3": "Liquido A Gaseoso\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de sólido a gaseoso.",
+        "respuesta": "Sublimación",
+        "incorrecta1": "Cohesión",
+        "incorrecta2": "Evaporación",
+        "incorrecta3": "Condensación\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    },
+
+
+
+    {
+
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál de las siguientes ciudades no es una ciudad santa?",
+        "respuesta": "Burgos",
+        "incorrecta1": "Asís",
+        "incorrecta2": "Hebrón",
+        "incorrecta3": "Santiago De Compostela\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Baréin? ",
+        "respuesta": "Manama",
+        "incorrecta1": "Ammán",
+        "incorrecta2": "Riad",
+        "incorrecta3": "Bahréin\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué país está la Laguna Verde? ",
+        "respuesta": "Bolivia",
+        "incorrecta1": "Chile",
+        "incorrecta2": "Argentina",
+        "incorrecta3": "Todas Son Correctas\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué cordillera están la mayoría de las grandes montañas? ",
+        "respuesta": "En El Himalaya",
+        "incorrecta1": "En Los Andes",
+        "incorrecta2": "En Las Montañas Rocosas",
+        "incorrecta3": "En El Karakórum\r"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué ciudad europea es famosa por la belleza de su parlamento? ",
+        "respuesta": "Budapest",
+        "incorrecta1": "París",
+        "incorrecta2": "Madrid",
+        "incorrecta3": "Praga\r"
+    },
+  
+
+
+    
+
+    {
+        "categoria": "Deportes",
+        "pregunta": "Porqué deporte es conocido Max Biaggi?",
+        "respuesta": "Motociclismo ",
+        "incorrecta1": "Waterpolo ",
+        "incorrecta2": "Fútbol",
+        "incorrecta3": "Automovilismo\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "A pesar de ir descalzo, ¿qué evento olímpico ganó el etíope Abebe Bikila en 1960?",
+        "respuesta": "Maratón",
+        "incorrecta1": "100 M",
+        "incorrecta2": "Salto De Longitud",
+        "incorrecta3": "Campeonato Completo De Gimnasia\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué país eligió como mascota a un leopardo llamado Zakumi cuando fue sede de la Copa del Mundo en 2010?",
+        "respuesta": "Sudáfrica",
+        "incorrecta1": "Nigeria ",
+        "incorrecta2": "Costa De Marfil",
+        "incorrecta3": "Kenia \r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién fue el primer jugador español de baloncesto que disputó un partido en la NBA?",
+        "respuesta": "Fernando Martín  ",
+        "incorrecta1": "Ricky Rubio ",
+        "incorrecta2": "Pau Gasol",
+        "incorrecta3": "Juan Carlos Navarro\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de estos continentes acogió los Juegos Olímpicos de Verano al menos una vez en el siglo XX?",
+        "respuesta": "Asia ",
+        "incorrecta1": "Sudamérica",
+        "incorrecta2": "África",
+        "incorrecta3": "Antártica\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál de estos continentes acogió los Juegos Olímpicos de Verano al menos una vez en el siglo XX?",
+        "respuesta": "Asia ",
+        "incorrecta1": "Sudamérica",
+        "incorrecta2": "África",
+        "incorrecta3": "Antártica\r"
+    },
+
+
+
+
+
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Lo que mas come y toma Homero?",
+        "respuesta": "Cerveza y Donas",
+        "incorrecta1": "Cerveza y mani",
+        "incorrecta2": "Todo lo come por igual",
+        "incorrecta3": "Es Anorexico\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué jugador de Futbol famoso aparece cuando Homero es Arbitro?",
+        "respuesta": "Cristiano",
+        "incorrecta1": "Messi",
+        "incorrecta2": "Rooney",
+        "incorrecta3": "Marradona\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Cantidad de hijos que tienen Homero y Marge",
+        "respuesta": "3",
+        "incorrecta1": "2",
+        "incorrecta2": "1",
+        "incorrecta3": "0\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Moe le compra una freidora al montar un restaurante familiar",
+        "respuesta": "A la marina norteamericana",
+        "incorrecta1": "Al presidente",
+        "incorrecta2": "A Homero",
+        "incorrecta3": "A Nelson\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Detalle facial que lleva el enemigo de Maggie",
+        "respuesta": "Solo tiene una ceja",
+        "incorrecta1": "No lleva chupete",
+        "incorrecta2": "Tiene barba",
+        "incorrecta3": "Un piercing"
+    },
+    
+
+
+
+    {
+        "categoria": "Matemática",
+        "pregunta": "Nacionalidad de Gottfried Leibniz",
+        "respuesta": "Alemán",
+        "incorrecta1": "Suecia",
+        "incorrecta2": "Colombia",
+        "incorrecta3": "China\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Gottfried Leibniz, gran hecho",
+        "respuesta": "desscrubrió el calculo en el siglo 17",
+        "incorrecta1": "Creó la geometría analítica en el siglo XVII. ",
+        "incorrecta2": "Inventó el topología algebraica en el siglo XIX",
+        "incorrecta3": "Comia mucho mani\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "seudónimo de Carl Gauss ",
+        "respuesta": "principe de los matematicos",
+        "incorrecta1": "La bestia del calculo",
+        "incorrecta2": "El Dios de los numeros",
+        "incorrecta3": "Ninguna es correcta\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Leonad Euler nacionalidad",
+        "respuesta": "Suiza",
+        "incorrecta1": "Ruso",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Berlin\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se fundó la teoria dos grafos",
+        "respuesta": "solucionando un problema que tenia siete puentes. ",
+        "incorrecta1": "Conectando algunos meridianos importantes",
+        "incorrecta2": "En el estudio de los numeros primos",
+        "incorrecta3": "Estudiando aquillas curvas que parecen rectas\r"
+    }
+]
